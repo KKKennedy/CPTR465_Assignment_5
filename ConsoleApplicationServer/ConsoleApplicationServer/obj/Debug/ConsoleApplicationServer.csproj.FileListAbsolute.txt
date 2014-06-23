@@ -1,0 +1,5 @@
+C:\Users\Kevin K. Kennedy\Documents\Visual Studio 2013\Projects\ConsoleApplicationServer\ConsoleApplicationServer\bin\Debug\ConsoleApplicationServer.exe
+C:\Users\Kevin K. Kennedy\Documents\Visual Studio 2013\Projects\ConsoleApplicationServer\ConsoleApplicationServer\bin\Debug\ConsoleApplicationServer.pdb
+C:\Users\Kevin K. Kennedy\Documents\Visual Studio 2013\Projects\ConsoleApplicationServer\ConsoleApplicationServer\obj\Debug\ConsoleApplicationServer.csprojResolveAssemblyReference.cache
+C:\Users\Kevin K. Kennedy\Documents\Visual Studio 2013\Projects\ConsoleApplicationServer\ConsoleApplicationServer\obj\Debug\ConsoleApplicationServer.exe
+C:\Users\Kevin K. Kennedy\Documents\Visual Studio 2013\Projects\ConsoleApplicationServer\ConsoleApplicationServer\obj\Debug\ConsoleApplicationServer.pdb

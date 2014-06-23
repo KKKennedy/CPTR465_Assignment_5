@@ -1,0 +1,11 @@
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationClients\WindowsFormsApplicationClients\bin\Debug\WindowsFormsApplicationClients.exe
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationClients\WindowsFormsApplicationClients\bin\Debug\WindowsFormsApplicationClients.pdb
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationClients\WindowsFormsApplicationClients\obj\Debug\WindowsFormsApplicationClients.csprojResolveAssemblyReference.cache
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationClients\WindowsFormsApplicationClients\obj\Debug\WindowsFormsApplicationClients.FormMainClients.resources
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationClients\WindowsFormsApplicationClients\obj\Debug\WindowsFormsApplicationClients.Properties.Resources.resources
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationClients\WindowsFormsApplicationClients\obj\Debug\WindowsFormsApplicationClients.csproj.GenerateResource.Cache
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationClients\WindowsFormsApplicationClients\obj\Debug\WindowsFormsApplicationClients.exe
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationClients\WindowsFormsApplicationClients\obj\Debug\WindowsFormsApplicationClients.pdb
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationClients\WindowsFormsApplicationClients\obj\Debug\WindowsFormsApplicationClients.FormClient2.resources
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationClients\WindowsFormsApplicationClients\obj\Debug\WindowsFormsApplicationClients.ClientForm3.resources
+c:\users\kevin k. kennedy\documents\visual studio 2013\Projects\WindowsFormsApplicationClients\WindowsFormsApplicationClients\obj\Debug\WindowsFormsApplicationClients.ClientForm2.resources
